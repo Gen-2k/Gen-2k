@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · React & TypeScript Specialist · LLM/AI Explorer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Node.js;Building+Project_X;Exploring+LLM+%26+AI+Tooling;Open+to+Freelance+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Node.js;Building+Project_X;Exploring+LLM+%26+AI+Tooling;Open+to+Freelance+Work)](https://github.com/Gen-2k)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-suryaselvam.netlify.app-00E5FF?style=for-the-badge&logo=netlify&logoColor=white)](https://suryaselvam.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gen--2k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gen-2k)
@@ -16,8 +16,14 @@
 ### ⚡ About Me
 
 > **Full-stack developer** from Chennai, India 🇮🇳 building modern, production-grade web applications.
-> Currently architecting **Project_X** — an enterprise-grade TypeScript monorepo, while diving deep into
-> **LLM engineering** and **AI tooling**.
+> Currently architecting **Project_X** — an enterprise-grade TypeScript monorepo — while diving deep
+> into **LLM engineering** and **AI tooling**.
+
+### 🔭 Currently Building
+
+- **Project_X** — Production-grade TypeScript monorepo (React 19 · NestJS 11 · Prisma 7 · Turborepo)
+- Reusable **React component libraries** & full-stack web applications
+- Expanding my **LLM engineering** skills — agents, fine-tuning, and AI tooling
 
 </div>
 
@@ -51,11 +57,11 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gen-2k&layout=donut&langs_count=8&theme=react&hide_border=true&border_radius=10)](https://github.com/Gen-2k)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gen-2k&theme=react&hide_border=true&border_radius=10)](https://github.com/Gen-2k)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gen-2k&theme=react&hide_border=true&border_radius=10)](https://github.com/Gen-2k)
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
