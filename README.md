@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-suryaselvam.netlify.app-00E5FF?style=for-the-badge&logo=netlify&logoColor=white)](https://suryaselvam.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gen--2k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gen-2k)
 [![Org](https://img.shields.io/badge/Org-Gen--ByteCode-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gen-ByteCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Chennai)
 
 ---
@@ -90,7 +89,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=netlify&logoColor=white)](https://suryaselvam.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gen-2k)
-[![Email](https://img.shields.io/badge/Email-00A9A5?style=flat-square&logo=gmail&logoColor=white)](mailto:gen2k.dev@gmail.com)
 [![Org](https://img.shields.io/badge/Gen--ByteCode-7B61FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Gen-ByteCode)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Gen-2k&label=Profile%20Views&countColor=%23263759)
