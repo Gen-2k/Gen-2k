@@ -160,7 +160,7 @@ availability: 💼 Open to Freelance, Collaborations & High-Impact Roles
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gen-2k&theme=tokyonight" alt="Surya's GitHub Profile Details" height="180" />
     </a>
     <a href="https://github.com/Gen-2k">
-      <img src="https://streak-stats.demolab.com/?user=Gen-2k&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="180" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gen-2k&theme=tokyonight" alt="Surya's GitHub Stats" height="180" />
     </a>
   </p>
 
