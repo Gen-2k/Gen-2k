@@ -83,7 +83,9 @@ Portfolio, LinkedIn, and email can be added here when ready.
 <a href="mailto:..."><img src="..." alt="Email"></a>
 -->
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
 
 <p align="center">
   <sub>Full-stack developer · TypeScript · React · Node.js · PostgreSQL</sub>
