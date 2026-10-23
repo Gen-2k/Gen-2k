@@ -28,8 +28,8 @@ I care about shipping useful software: clear interfaces, reliable APIs, and code
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,docker,githubactions,python&perline=10&theme=dark">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,docker,githubactions,python&perline=10&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker, GitHub Actions, Python" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cpostgres%2Cdocker%2Cgithubactions%2Cpython&perline=10&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cpostgres%2Cdocker%2Cgithubactions%2Cpython&perline=10&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Docker, GitHub Actions, Python" />
   </picture>
 </p>
 
