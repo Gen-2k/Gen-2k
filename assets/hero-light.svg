@@ -1,0 +1,84 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gen-2k — Full-stack developer</title>
+  <desc id="desc">A light banner with the name Gen-2k, full-stack developer title, location, and a terminal-style code card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="0.55" stop-color="#F1F6FC"/>
+      <stop offset="1" stop-color="#EAF2FA"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(120 30) rotate(45) scale(480 480)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00B8D4" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#00B8D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientTransform="translate(1130 280) rotate(-135) scale(520 520)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D4AFF" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#6D4AFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00B8D4"/>
+      <stop offset="0.5" stop-color="#6D4AFF"/>
+      <stop offset="1" stop-color="#00A86B"/>
+    </linearGradient>
+    <linearGradient id="name" x1="64" y1="120" x2="470" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.7" stop-color="#123A55"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#D8E3F0" stroke-width="1" opacity="0.75"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glowCyan)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#glowPurple)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="url(#accent)" stroke-opacity="0.4" stroke-width="1.5"/>
+
+  <g transform="translate(64 58)">
+    <rect x="0" y="0" width="206" height="30" rx="15" fill="#E6FFFB" stroke="#00B8D4" stroke-opacity="0.45"/>
+    <circle cx="15" cy="15" r="4" fill="#00A86B">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="29" y="19.5" fill="#0E7490" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.7">OPEN TO OPPORTUNITIES</text>
+
+    <text x="0" y="100" fill="url(#name)" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2.5">GEN-2K</text>
+    <text x="2" y="136" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">Full-stack developer <tspan fill="#0891B2">/</tspan> software engineer</text>
+    <text x="2" y="165" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" letter-spacing="0.2">TypeScript · React · Node.js · PostgreSQL</text>
+
+    <g transform="translate(2 205)">
+      <text x="0" y="0" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.8">EXPERIENCE</text>
+      <text x="0" y="24" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">2+ years</text>
+      <line x1="104" y1="-13" x2="104" y2="28" stroke="#CBD5E1"/>
+      <text x="124" y="0" fill="#64748B" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.8">BASED IN</text>
+      <text x="124" y="24" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Chennai, India</text>
+    </g>
+  </g>
+
+  <g transform="translate(742 43)">
+    <rect x="0" y="0" width="400" height="214" rx="16" fill="#080C16" stroke="#263449"/>
+    <rect x="0" y="0" width="400" height="38" rx="16" fill="#0F1728"/>
+    <rect x="0" y="20" width="400" height="18" fill="#0F1728"/>
+    <circle cx="18" cy="19" r="4.5" fill="#FF5F57"/>
+    <circle cx="34" cy="19" r="4.5" fill="#FEBC2E"/>
+    <circle cx="50" cy="19" r="4.5" fill="#28C840"/>
+    <text x="70" y="23" fill="#64748B" font-family="Consolas, Menlo, monospace" font-size="10.5">gen-2k.ts</text>
+    <line x1="0" y1="38" x2="400" y2="38" stroke="#1F2A3D"/>
+
+    <g transform="translate(22 64)" font-family="Consolas, Menlo, monospace" font-size="12.8">
+      <text x="0" y="0"><tspan fill="#7B61FF">const</tspan><tspan fill="#C9D1D9"> developer = {</tspan></text>
+      <text x="0" y="24"><tspan fill="#00E5FF">role</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#00F5A0">"full-stack"</tspan><tspan fill="#C9D1D9">,</tspan></text>
+      <text x="0" y="48"><tspan fill="#00E5FF">experience</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#00F5A0">"2+ years"</tspan><tspan fill="#C9D1D9">,</tspan></text>
+      <text x="0" y="72"><tspan fill="#00E5FF">stack</tspan><tspan fill="#C9D1D9">: [</tspan><tspan fill="#00F5A0">"TypeScript"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#00F5A0">"React"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#00F5A0">"Node"</tspan><tspan fill="#C9D1D9">],</tspan></text>
+      <text x="0" y="96"><tspan fill="#00E5FF">learning</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#FFD166">"AI/LLM engineering"</tspan><tspan fill="#C9D1D9">,</tspan></text>
+      <text x="0" y="120"><tspan fill="#00E5FF">status</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#00F5A0">"open to opportunities"</tspan></text>
+      <text x="0" y="144" fill="#C9D1D9">};</text>
+    </g>
+  </g>
+
+  <rect x="742" y="43" width="400" height="214" rx="16" fill="#6D4AFF" opacity="0.05" filter="url(#softGlow)"/>
+</svg>
