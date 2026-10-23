@@ -34,14 +34,18 @@ I care about shipping useful software: clear interfaces, reliable APIs, and code
 </p>
 
 <p align="center">
-  <sub>TypeScript · JavaScript · React · Next.js · Node.js · NestJS · PostgreSQL · SQL · Docker · GitHub Actions · Python</sub>
+  <sub>TypeScript · JavaScript · React · Next.js · Node.js · NestJS · PostgreSQL · SQL · Docker · GitHub Actions · CI/CD · Python</sub>
 </p>
 
 ## Focus
 
 - **Full-stack delivery** — React and Next.js frontends; Node.js and NestJS backends.
 - **Data and APIs** — PostgreSQL, SQL, and well-structured API design.
-- **Developer experience** — TypeScript, Docker, GitHub Actions, and maintainable codebases.
+- **CI/CD and delivery** — GitHub Actions pipelines, Docker, and repeatable build, test, and release workflows.
+
+<p align="center">
+  <sub><strong>How I work across the SDLC:</strong> plan → build → test → ship → improve</sub>
+</p>
 
 ## Currently
 
